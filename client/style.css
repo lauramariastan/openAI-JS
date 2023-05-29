@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #393d52;
+  background: #23273f;
 }
 
 .chat {
@@ -117,7 +117,7 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #7077a1;
+  background: #393d52;
 
   display: flex;
   flex-direction: row;
